@@ -1,0 +1,10 @@
+{
+	"records":
+	[
+		{"namaRuangan":"Pendaftaran Rawat Jalan",
+		"lantai":"Lantai 2",
+		"keterangan":"-",
+		"gambar":"p9.jpg",
+		"video":
+			[
+			"https:\/\/www.youtube.com\/embed\/gUofPxm0-IM","https:\/\/www.youtube.com\/embed\/B9JpNsqWr_8","https:\/\/www.youtube.com\/embed\/h85bcHb9rho"]},{"namaRuangan":1,"lantai":1,"keterangan":1,"gambar":1,"video":[3,5,5]}]}
